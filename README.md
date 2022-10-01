@@ -1,8 +1,8 @@
 # Hello Rails Back End
 This is a demo project where I have implemented server-side for api creation using RoR.
 
-- Front-end Repo: [Link](https://github.com/ramrod433/hello-rails-front-end/tree/features)
-- Back-end App: [Api](https://github.com/ramrod433/hello-rails-back-end.git)
+- Front-end App: [Link](https://github.com/ramrod433/hello-react-front-end.git)
+
 
 # Built With
 - Ruby on Rails
