@@ -1,24 +1,39 @@
-# README
+# Microverse Project
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## hello-rails-back-end
 
-Things you may want to cover:
+> Display the random greeting on a button click
 
-* Ruby version
+## Setup
+>- Git clone `https://github.com/rolandfbk/hello-rails-back-end.git`
+>- cd hello-rails-react
+>- bundle install
+>- rails db:create db:migrate
+>- yarn install
+>- yarn build
+>- rails server
 
-* System dependencies
+## Built With
+>- Webpack / React
+>- Rails 7.0
 
-* Configuration
+## Author
 
-* Database creation
+👤 **Nii Amanor Djoleto**
 
-* Database initialization
+- GitHub: [@ramrod433](https://github.com/ramrod433)
+- Twitter: [@\_Djoleto](https://twitter.com/_djoleto_)
+- LinkedIn: [Nii Amanor Djoleto](https://linkedin.com/in/nii-amanor-djoleto)
+## 🤝 Contributing
 
-* How to run the test suite
+>Contributions, issues, and feature requests are welcome!
 
-* Services (job queues, cache servers, search engines, etc.)
+## Show your support
 
-* Deployment instructions
+>Give a ⭐️ if you like this project!
 
-* ...
+## Acknowledgement
+
+>Greatful to @microverseinc for putting this project together
+
