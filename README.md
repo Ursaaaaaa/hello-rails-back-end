@@ -1,39 +1,50 @@
-# Microverse Project
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello Rails Back End
+This is a demo project where I have implemented server-side for api creation using RoR.
 
-## hello-rails-back-end
+- Front-end Repo: [Link](https://github.com/ramrod433/hello-rails-front-end/tree/features)
+- Back-end App: [Api](https://github.com/ramrod433/hello-rails-back-end.git)
 
-> Display the random greeting on a button click
+# Built With
+- Ruby on Rails
+- Postgres
+- Rubocop
+ 
+# Getting Started
+To get local copy of the project and run
 
-## Setup
->- Git clone `https://github.com/rolandfbk/hello-rails-back-end.git`
->- cd hello-rails-react
->- bundle install
->- rails db:create db:migrate
->- yarn install
->- yarn build
->- rails server
+- git clone `https://github.com/ramrod433/hello-rails-back-end.git`
+- cd hello-rails-react
+- rails s
 
-## Built With
->- Webpack / React
->- Rails 7.0
+# Database Setup
 
-## Author
+- rails db:create
+- rails db:migrate
+
+## Authors
 
 👤 **Nii Amanor Djoleto**
 
 - GitHub: [@ramrod433](https://github.com/ramrod433)
 - Twitter: [@\_Djoleto](https://twitter.com/_djoleto_)
 - LinkedIn: [Nii Amanor Djoleto](https://linkedin.com/in/nii-amanor-djoleto)
+
 ## 🤝 Contributing
 
->Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
->Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project!
 
-## Acknowledgement
+## Acknowledgments
 
->Greatful to @microverseinc for putting this project together
+- Microverse
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed. 
 
